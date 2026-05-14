@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Transport Explorer",
+  "description": "Ինտերակտիվ հայերեն-իսպաներեն հավելված տրանսպորտի բայերի (subir, tomar, montar, bajar) մասին: Ներառում է տեսություն, խոնարհումներ և մրցակցային խաղ Գոռի ու Գայանեի միջև:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
